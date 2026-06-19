@@ -1,5 +1,7 @@
 # Student-Academic-Performance-Analysis
 
+**Dataset used:** https://archive.ics.uci.edu/dataset/320/student+performance
+
 **Objective:** To examine what external factors are associated with a student's academic performance.
 
 **Description:** The dataset measures student achievement in secondary education in Portugal. It consists of 33 variables, including student grades, demographic information, and social and school-related factors.
